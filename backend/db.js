@@ -8,4 +8,5 @@ const connectToMongo = () => {
     console.log("connected to mongo DB");
   });
 };
+
 module.exports = connectToMongo;
